@@ -93,7 +93,7 @@ a:hover{
 }
 .bottom-cloud{
   position: absolute;
-  right: 300px;
+  align-content: center;
   top: 400px;
 }
 .bottom-cloud:hover{
