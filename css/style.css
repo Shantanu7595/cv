@@ -85,7 +85,7 @@ a:hover{
 }
 .mid-cloud{
   position: absolute;
-  left: 370px;
+  align-content: center;
   top: 300px;
 }
 .mid-cloud:hover{
