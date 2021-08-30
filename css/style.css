@@ -1,0 +1,206 @@
+body{
+  margin: 0;
+  background-color: #81F5FF;
+  text-align: center;
+}
+.top-container{
+  background-color: #E3FDFD;
+  margin-top: 0;
+  padding-top:150px;
+}
+h1{
+  margin: 0;
+  color: #00ADB5;
+  font-size: 3.75rem;
+  font-family: 'Sacramento', cursive;
+  padding: 0;
+}
+h1:hover{
+  color: #381460;
+}
+h4{
+  margin: 0;
+  color: #8785A2;
+  font-size: 1.2rem;
+  font-family: cursive;
+  font-weight: normal;
+}
+h4:hover{
+  color: #27496D;
+}
+p{
+  font-family: 'Allison', cursive;
+  font-size: 2rem;
+  letter-spacing: 2px;
+  color: gray;
+}
+h2{
+  font-family: 'Allison', cursive;
+  font-size: 3rem;
+  color: #FF6B6B;
+  letter-spacing: 6px;
+}
+h3{
+  font-family: 'Staatliches', cursive;
+  font-size: 2rem;
+  letter-spacing: 15px;
+  color: #00ADB5;
+}
+h3:hover{
+  font-family: 'Staatliches', cursive;
+  font-size: 2rem;
+  letter-spacing: 15px;
+  color: #FF6B6B;
+}
+h5{
+  font-family: 'Sacramento', cursive;
+    font-size: 2rem;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: gray;
+  height: 0;
+  width: 6%;
+}
+a{
+  color: #00ADB5;
+  font-family: 'Staatliches', cursive;
+  font-size: 1.5rem;
+  margin: 30px 30px;
+  padding: 4px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.top-cloud{
+  position: absolute;
+  right: 460px;
+  top: 60px;
+}
+.top-cloud:hover{
+  width: 160px;
+}
+.mid-cloud{
+  position: absolute;
+  left: 370px;
+  bottom: 400px;
+}
+.mid-cloud:hover{
+  width: 160px;
+}
+.bottom-cloud{
+  position: absolute;
+  right: 400px;
+  bottom: 300px;
+}
+.bottom-cloud:hover{
+  width: 160px;
+}
+.mountain{
+  padding-top: 0;
+}
+/*  222222222222222222222222222222222222222222222222     */
+.profile{
+  margin: 100px auto;
+  width: 70%;
+}
+.skills{
+  padding-top: 50px;
+
+}
+.skill-row{
+  width: 60%;
+  margin: 100px auto;
+  text-align: left;
+}
+.code-img{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.swim-img{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+.cycle-img{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.photo-img{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+.edit-img{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+/*  333333333333333333333333333333333333333333333333333333  */
+.contact-me{
+  padding-top: 10px;
+  background-color: #E4FBFF;
+}
+.contact-message{
+  width:40%;
+  margin: 40px auto 20px;
+}
+.bottom-container{
+    font-family: 'Staatliches', cursive;
+    font-size: 2rem;
+    padding: 50px 0 20px;
+    background-color: #055052;
+}
+.copyright{
+    font-family: 'Staatliches', cursive;
+    font-size: 1rem;
+    background-color: #055052;
+    margin-bottom: 0;
+    padding:20px 0 ;
+}
+.btn{
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 60px;
+   -moz-border-radius: 60px;
+   border-radius: 60px;
+   color: #FBFBFB;
+   font-family: 'Staatliches', cursive;
+   font-size: 20px;
+   font-weight: 100;
+   letter-spacing: 1px;
+   padding: 10px 20px;
+   margin-bottom: 50px;
+   -webkit-box-shadow: 0 0 0 0 #1DECDF;
+   -moz-box-shadow: 0 0 0 0 #1DECDF;
+   box-shadow: 0 0 0 0 #1DECDF;
+   text-shadow: 0 0 0 #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover{
+   border: solid #337FED 0;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 60px;
+   -moz-border-radius: 60px;
+   border-radius: 60px;
+   text-decoration: none;
+}
